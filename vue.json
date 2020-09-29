@@ -1,0 +1,26 @@
+{
+  "Print to console": {
+    "prefix": "vue",
+    "body": [
+      "<template>",
+      "  <div>$0</div>",
+      "</template>",
+      "",
+      "<script>",
+      "export default {",
+      "  data() {",
+      "    return {",
+      "    };",
+      "  },",
+      "  computed: {},",
+      "  methods: {},",
+      "  created() {},",
+      "  mounted() {}",
+      "};",
+      "</script>",
+      "<style lang=\"less\" scoped>",
+      "</style>"
+    ],
+    "description": "A vue file template"
+  }
+}

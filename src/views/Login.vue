@@ -1,5 +1,5 @@
 <template>
-  <div>主页组件</div>
+  <div>登录组件</div>
 </template>
 
 <script>
